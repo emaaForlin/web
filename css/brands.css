@@ -112,8 +112,8 @@ button:hover,
 /* mail */
 .button.button-mail {
   color: #000000;
-  background-color: #DCD1ED;
-  border-width: 1px;
+  background-color: #9e9e9e;
+  border-width: 5px;
   border-color: #000000;
 }
 
