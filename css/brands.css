@@ -109,6 +109,14 @@ button:hover,
 .button.button-github:focus {
   filter: brightness(90%) }
 
+/* mail */
+.button.button-mail {
+  color: #FFFFFF;
+  background-color: #DCD1ED;
+  border-width: 1px;
+  border-color: #000000;
+}
+
 /* Goodreads */
 .button.button-goodreads {
   color: #553B08;
